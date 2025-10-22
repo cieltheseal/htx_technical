@@ -3,3 +3,35 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+.DS_Store
+Thumbs.db
+
+.bsp/
+.bloop/
+target/
+project/target/
+project/project/
+
+/bin
+/out
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+
+*.log
+
+/spark_test_artifacts/
+/spark-warehouse/
+/spark-events/
+
+.spark/
+.rnd/
