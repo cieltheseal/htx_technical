@@ -4,7 +4,6 @@ import org.apache.spark.sql.SparkSession
 import org.apache.spark.rdd.RDD
 import org.scalatest.BeforeAndAfterEach
 import org.scalatest.funsuite.AnyFunSuite
-import com.htx.FinalOutput
 
 /**
  * Unit Test for Item Ranking logic.

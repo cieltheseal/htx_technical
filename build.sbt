@@ -1,8 +1,8 @@
-scalaVersion := "2.13.14"
+scalaVersion := "2.12.20"
 
 libraryDependencies ++= Seq(
-	"org.apache.spark" %% "spark-core" % "3.5.1",
-	"org.apache.spark" %% "spark-sql"  % "3.5.1",
+	"org.apache.spark" %% "spark-core" % "3.5.7",
+	"org.apache.spark" %% "spark-sql"  % "3.5.7",
 	"ch.qos.logback" % "logback-classic" % "1.4.14",
 	"org.apache.hadoop" % "hadoop-client" % "3.3.6" % "provided",
 	"org.scalatest" %% "scalatest" % "3.2.18" % "test"

@@ -2,7 +2,6 @@ package com.htx
 
 import org.apache.spark.sql.SparkSession
 import org.apache.spark.rdd.RDD
-import com.htx.FinalOutput
 
 object ItemRanking {
 
