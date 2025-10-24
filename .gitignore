@@ -14,9 +14,6 @@ Thumbs.db
 
 .bsp/
 .bloop/
-target/
-project/target/
-project/project/
 
 /bin
 /out
